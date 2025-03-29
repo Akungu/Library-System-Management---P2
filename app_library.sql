@@ -94,7 +94,6 @@ CREATE TABLE return_status
 
 -- Task 2: Update an Existing Member's Address
 
-
 -- Task 3: Delete a Record from the Issued Status Table
 -- Objective: Delete the record with issued_id = 'IS104' from the issued_status table.
 
@@ -108,7 +107,7 @@ CREATE TABLE return_status
 
 -- ### 3. CTAS (Create Table As Select)
 
--- Task 6: Create Summary Tables**: Used CTAS to generate new tables based on query results - each book and total book_issued_cnt
+-- Task 6: Create Summary Tables**: Use CTAS to generate new tables based on query results - each book and total book_issued_count
 
 
 -- ### 4. Data Analysis & Findings
