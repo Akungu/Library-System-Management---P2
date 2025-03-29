@@ -118,7 +118,7 @@ CREATE TABLE return_status
 -- Task 8: Find Total Rental Income by Category:
 
 
--- Task 9. **List Members Who Registered in the Last 180 Days**:
+-- Task 9. **List Members Who Registered in 2021**:
 
 -- Task 10: List Employees with Their Branch Manager's Name and their branch details**:
 
