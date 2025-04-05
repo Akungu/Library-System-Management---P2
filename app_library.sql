@@ -152,13 +152,7 @@ Task 18: Identify Members Issuing High-Risk Books
 Write a query to identify members who have issued books more than twice with the status "damaged" in the books table. Display the member name, book title, and the number of times they've issued damaged books.    
 
 
-Task 19: Stored Procedure
-Objective: Create a stored procedure to manage the status of books in a library system.
-    Description: Write a stored procedure that updates the status of a book based on its issuance or return. Specifically:
-    If a book is issued, the status should change to 'no'.
-    If a book is returned, the status should change to 'yes'.
-
-Task 20: Create Table As Select (CTAS)
+Task 19: Create Table As Select (CTAS)
 Objective: Create a CTAS (Create Table As Select) query to identify overdue books and calculate fines.
 
 Description: Write a CTAS query to create a new table that lists each member and the books they have issued but not returned within 30 days. The table should include:

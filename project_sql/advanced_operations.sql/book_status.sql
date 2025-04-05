@@ -23,7 +23,7 @@ UPDATE books
 SET status = 'yes'
 WHERE isbn =v_isbn;
 
-RAISE NOTICE 'Book titled "%" returned', v_book_name;
+RAISE NOTICE 'Book returned title: %', v_book_name;
 
 
 END;
